@@ -1,0 +1,19 @@
+README.md
+  s_a388224b531603::t_45fc53e6a7d4fc 54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "7d277a086a77b29bccf392bf5e0f861a74f965ae",
+  "prompts": {},
+  "sessions": {
+    "s_a388224b531603": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "540785fb-e3b1-4b0e-9e42-5c245d5b238f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "bekanay <bekanay@Kanays-MacBook-Air.local>"
+    }
+  }
+}
